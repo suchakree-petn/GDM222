@@ -1,0 +1,15 @@
+C:\Users\tutor\GDM222\HW_4_4\bin\Debug\net6.0\HW_4_4.exe
+C:\Users\tutor\GDM222\HW_4_4\bin\Debug\net6.0\HW_4_4.deps.json
+C:\Users\tutor\GDM222\HW_4_4\bin\Debug\net6.0\HW_4_4.runtimeconfig.json
+C:\Users\tutor\GDM222\HW_4_4\bin\Debug\net6.0\HW_4_4.dll
+C:\Users\tutor\GDM222\HW_4_4\bin\Debug\net6.0\HW_4_4.pdb
+C:\Users\tutor\GDM222\HW_4_4\obj\Debug\net6.0\HW_4_4.csproj.AssemblyReference.cache
+C:\Users\tutor\GDM222\HW_4_4\obj\Debug\net6.0\HW_4_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tutor\GDM222\HW_4_4\obj\Debug\net6.0\HW_4_4.AssemblyInfoInputs.cache
+C:\Users\tutor\GDM222\HW_4_4\obj\Debug\net6.0\HW_4_4.AssemblyInfo.cs
+C:\Users\tutor\GDM222\HW_4_4\obj\Debug\net6.0\HW_4_4.csproj.CoreCompileInputs.cache
+C:\Users\tutor\GDM222\HW_4_4\obj\Debug\net6.0\HW_4_4.dll
+C:\Users\tutor\GDM222\HW_4_4\obj\Debug\net6.0\refint\HW_4_4.dll
+C:\Users\tutor\GDM222\HW_4_4\obj\Debug\net6.0\HW_4_4.pdb
+C:\Users\tutor\GDM222\HW_4_4\obj\Debug\net6.0\HW_4_4.genruntimeconfig.cache
+C:\Users\tutor\GDM222\HW_4_4\obj\Debug\net6.0\ref\HW_4_4.dll
